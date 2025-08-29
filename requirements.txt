@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+
+Install libraries by using the following command in Powershell : pip install fastapi uvicorn 
